@@ -6,7 +6,7 @@
 ---
 - Data Analytics & Engineering Intern · 2025.09 ~
 - Algorithm Study · 2025.06 ~ 2025.08
-- 우리FIS Acadamy AI Engineering Academy · 2024.12 ~ 2025.06 (960h)
+- 우리FIS Acadamy · AI Engineering · 2024.12 ~ 2025.06 (960h)
 - 교내 중앙개발동아리 SOLUX · 2022.09 ~ 2024.02
 <br><br><br>
 ### 📜 Certification
