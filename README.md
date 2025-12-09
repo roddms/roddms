@@ -1,38 +1,28 @@
-## 👤 Experiences
+---
+
+### 🎓 Education
+
+- Sookmyung Women's Univ. IT Engineering 21 · 2021.03 ~ 2025.08
+
+---
+
+### 👤 Experiences
 
 - 우리FIS AI Engineering Academy · 2024.12 ~ 2025.06  
-- 대학 중앙동아리 재정부 복지국장 · 2022  
-- 대학 교직이수센터 행정조교(근로장학생) · 2023 ~ 2024  
+- 교내 중앙개발동아리 · 2022.09 ~ 2024.02
+
+---
+
+### 📜 Certification
+
+- 빅데이터분석기사 (한국데이터산업진흥원) · 2025.07
+- SQLD (한국데이터산업진흥원) · 2025.12
+- ADsP (한국데이터산업진흥원) · 2025.11
 
 
 ---
 
-## 📚 Projects
-
-- V.V.S (시각장애인 카메라 보조 안드로이드 앱)
-- 말해방 (부동산 위험 매물 탐지 & 추천 플랫폼)
-- Auto-Report (지역 상권·방문자 분석 PPT 자동 생성 시스템)
-- 은평구 상권 수요 예측 & 공공데이터 분석 프로젝트 다수
-- Twitter US Airline Sentiment 딥러닝 감정 분석 (Streamlit 배포)
-
-
----
-
-## 🎓 Education
-
-- 컴퓨터공학 전공 학부 재학  
-
-
----
-
-## 📜 Certification
-
-- SQLD (한국데이터산업진흥원)  
-
-
----
-
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 <div align="center">
 
