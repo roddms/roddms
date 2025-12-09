@@ -1,6 +1,6 @@
 ### 🎓 Education
 ---
-- Sookmyung Women's Univ. IT Engineering 21 · 2021.03 ~ 2025.08
+- B.S. in IT Engineering · Sookmyung Women's Univ. · 2021.03 ~ 2025.08
 <br><br><br>
 ### 👤 Experiences
 ---
