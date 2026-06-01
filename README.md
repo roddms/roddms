@@ -1,6 +1,7 @@
 ### 🎓 Education
 ---
 - B.S. in IT Engineering · Sookmyung Women's Univ. · 2021.03 ~ 2025.08
+- M.S. in Computer Engineering · Sogang Univ. · 2026.09 ~
 <br><br><br>
 ### 👤 Experiences
 ---
