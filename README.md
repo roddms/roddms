@@ -5,7 +5,7 @@
 <br><br><br>
 ### 👤 Experiences
 ---
-- GG Intern in DiSCoS Lab, Sogang Univ · 2026.02 – 2026.08
+- GG Intern in DISCOS Lab, Sogang Univ · 2026.02 – 2026.08
 - Data Analytics & Engineering Intern · 2025.09 ~ 2025.12
 - Algorithm Study · 2025.06 ~ 2025.08
 - 우리FIS Acadamy · AI Engineering · 2024.12 ~ 2025.06 (960h)
